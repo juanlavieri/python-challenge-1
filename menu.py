@@ -1,3 +1,6 @@
+"""
+This program allows customers to place orders from a food truck menu. The menu is organized into categories such as snacks, meals, drinks, and desserts. Customers can select a category and then choose an item from that category. They can also specify the quantity of each item they want to order. The program keeps track of the customer's order and presents a summary at the end. 
+"""
 # Menu dictionary
 menu = {
     "Snacks": {
